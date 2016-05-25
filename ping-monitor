@@ -1,0 +1,1 @@
+*/1 * * * * root /usr/local/python2.6.6/bin/python2.6 /data/apps/monitor/ping-monitor/ping.py
